@@ -4,3 +4,6 @@
 [submodule "swans-identification-backend"]
 	path = swans-identification-backend
 	url = https://github.com/imaginary-units-pfur/swans-identification-backend.git
+[submodule "swans-identifications-model"]
+	path = swans-identifications-model
+	url = https://github.com/imaginary-units-pfur/swans-identifications-model.git
